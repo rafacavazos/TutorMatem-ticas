@@ -1,0 +1,3 @@
+El siguiente repositorio contiene la descripción del proyecto de tutoría inteligente para el aprendizaje de matemáticas.
+Autores: Alicia López y Rafael Cavazos
+Proyecto desarrollado para el artículo de investigación publicado en el CIINDET 2018.
